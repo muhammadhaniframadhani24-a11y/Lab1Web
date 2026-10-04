@@ -3,6 +3,7 @@
 ## Identitas Mahasiswa
 Nama: Muhammad Hanif Ramadhani  
 Program Studi: Teknik Informatika
+NIM : 312510291
 
 ## Tujuan Praktikum
 Praktikum ini bertujuan untuk memahami dasar-dasar HTML dan membuat halaman web sederhana menggunakan struktur HTML.
